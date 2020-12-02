@@ -1,0 +1,31 @@
+* {
+  z-index: 1;
+}
+
+i {
+  font-size: 3rem;
+}
+
+.small-i {
+  font-size: 1rem;
+}
+
+.smol-text {
+  font-size: .6rem;
+}
+
+#rice-field-row {
+  background: transparent url('https://wallpapercave.com/wp/wp3592340.jpg') no-repeat center 70% /cover
+}
+
+#rice-field-image {
+  z-index: 0;
+}
+
+#above-email {
+  font-size: .6rem;
+}
+
+#water-background {
+  background-color: #8BB5F8;
+}
